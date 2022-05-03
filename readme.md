@@ -9,6 +9,6 @@ returns list of drug info using name or disease search term.
 returns a drug info using unique ID
 
 # Web Page
-1. Open new terminal and `cd server/`
+1. Open new terminal and `cd frontend/drugs-lookup/`
 2. `npm install` to download dependencies
 3. `npm run serve` to serve on localhost
