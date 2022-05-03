@@ -1,8 +1,7 @@
-# Steps
-Just `npm install` to install dependencies
-
 # REST Server
-`cd server/ && npm run dev` to serve REST API. Default port is 8080.
+1. `cd server/`
+2. `npm install` to download dependencies
+3. `npm run dev` to serve REST API. Default port is 8080.
 #### `GET localhost:8080/search/drugs?q=<searchTerm>`
 returns list of drug info using name or disease search term.
 
@@ -10,4 +9,6 @@ returns list of drug info using name or disease search term.
 returns a drug info using unique ID
 
 # Web Page
-On a new terminal, from the project root `cd frontend/drugs-lookup/ && npm run serve`
+1. Open new terminal and `cd server/`
+2. `npm install` to download dependencies
+3. `npm run serve` to serve on localhost
