@@ -1,5 +1,5 @@
 # Steps
-Just `npm install` to install dependencies
+Just `npm install` from each directories (`/server` and `/frontend/drugs-lookup/`) to install dependencies
 
 # REST Server
 `cd server/ && npm run dev` to serve REST API. Default port is 8080.
