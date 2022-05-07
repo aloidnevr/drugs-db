@@ -7,7 +7,6 @@
         </div>
         <div class="bg-gray-100 flex flex-wrap px-5 pb-5">
           <div class="bg-sky-700 text-xs px-2 py-1 rounded-full border border-gray-200 text-white" v-for="disease in data.diseases" v-bind:key="disease">{{disease}}</div>
-          <div class="bg-sky-700 text-xs px-2 py-1 rounded-full border border-gray-200 text-white" v-for="disease in data.diseases" v-bind:key="disease">{{disease}}</div>
 
         </div>
 
